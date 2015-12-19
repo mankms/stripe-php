@@ -12,3 +12,5 @@ composer.lock
 
 # Ignore PHPUnit coverage file
 clover.xml
+
+/nbproject
